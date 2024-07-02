@@ -1,0 +1,14 @@
+# ifelseifelse.spl
+PROGRAM
+    VAR
+        x : INTEGER;
+    BEGIN
+        x := 5;
+        IF x = 10 THEN
+            WRITELN("x is 10");
+        ELSEIF x < 10 THEN
+            WRITELN("x is less than 10");
+        ELSE
+            WRITELN("x is greater than 10");
+        ENDIF;
+    END.

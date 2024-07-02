@@ -1,0 +1,9 @@
+⍝ ifelseifelse.apl
+x ← 5
+:If x = 10
+    'x is 10'
+:ElseIf x < 10
+    'x is less than 10'
+:Else
+    'x is greater than 10'
+:EndIf

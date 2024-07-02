@@ -1,0 +1,10 @@
+* ifelseifelse.fox
+x = 5
+
+IF x = 10
+    ? "x is 10"
+ELSEIF x < 10
+    ? "x is less than 10"
+ELSE
+    ? "x is greater than 10"
+ENDIF

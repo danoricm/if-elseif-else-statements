@@ -1,0 +1,10 @@
+// ifelseifelse.falcon
+x = 5
+
+if x == 10
+    > "x is 10"
+elseif x < 10
+    > "x is less than 10"
+else
+    > "x is greater than 10"
+end

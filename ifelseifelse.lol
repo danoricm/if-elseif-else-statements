@@ -1,0 +1,6 @@
+HAI 1.2
+I HAS A x ITZ 5
+BOTH SAEM x AN 10, VISIBLE "x is 10"
+DIFFRINT x AN SMALLR OF 10, VISIBLE "x is less than 10"
+VISIBLE "x is greater than 10"
+KTHXBYE

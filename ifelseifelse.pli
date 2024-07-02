@@ -1,0 +1,10 @@
+/* ifelseifelse.pli */
+DCL x FIXED DECIMAL(5) INIT(5);
+
+IF x = 10 THEN
+    PUT LIST('x is 10');
+ELSE IF x < 10 THEN
+    PUT LIST('x is less than 10');
+ELSE
+    PUT LIST('x is greater than 10');
+END IF;
